@@ -1,0 +1,12 @@
+langchain
+langchain_google_genai
+langchain-openai
+google-generativeai
+OpenAI
+unstructured
+faiss-cpu
+python-dotenv
+python-magic
+streamlit
+langchain-community
+PyPDF2
