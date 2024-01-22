@@ -16,9 +16,9 @@ Link: [personal-analyst.onrender.com](personal-analyst.onrender.com)
 
 
 ## Screenshots
-![Screenshot](Capture.PNG)
-![Screenshot](Capture2.PNG)
-![Screenshot](Capture3.PNG)
+![Screenshot](Capture.png)
+![Screenshot](Capture2.png)
+![Screenshot](Capture3.png)
 
 
 ## Problem Statement
