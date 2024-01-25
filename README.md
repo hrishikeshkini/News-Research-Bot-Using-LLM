@@ -12,7 +12,7 @@
   * [Contributors](#contributors)
 
 ## Demo
-Link: [personal-analyst.onrender.com](personal-analyst.onrender.com)
+Link: [personal-analyst.onrender.com](https://personal-analyst.onrender.com/)
 
 
 ## Screenshots
